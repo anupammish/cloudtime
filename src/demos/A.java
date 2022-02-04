@@ -11,10 +11,8 @@ public static void main(String[] args)
 {
 	int a,b,c;
 	
-	
 	System.out.println("enter the two number ");
 
-	
 	s = new Scanner(System.in);
 	
 	a=s.nextInt();
